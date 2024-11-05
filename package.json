@@ -1,0 +1,16 @@
+{
+    "name": "Gurita-Superlite",
+    "version": "1.0.0",
+    "description": "WhatsApp Bot Using Nodejs",
+    "main": "index.js",
+    "type": "commonjs",
+    "scripts": {
+        "start": "node index.js "
+    },
+    "author": "Gurita darat",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^1.7.7",
+        "chalk": "^5.3.0"
+    }
+}
